@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/Aibekabdi/ani-messenger/config"
-	"github.com/Aibekabdi/ani-messenger/internal/app"
+	"github.com/Aibekabdi/ani-messenger/auth-service/config"
+	"github.com/Aibekabdi/ani-messenger/auth-service/internal/app"
 	log "github.com/sirupsen/logrus"
 )
 
