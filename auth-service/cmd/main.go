@@ -52,5 +52,3 @@ func setupLogger(cfg config.Log) error {
 	}
 	return nil
 }
-
-//
